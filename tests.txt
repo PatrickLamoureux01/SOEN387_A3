@@ -1,0 +1,23 @@
+Test: Check User Signup
+Test ran on: 2021-12-15T20:54:00.411102300
+Email: samueljackson@gmail.com
+Full Name: Samuel Jackson
+Password: null
+Validated: 0
+All fields are correct. User signup successful.
+
+
+Forgot token generated is: 1K8JX6X038
+Test: Check Forgot Token
+Test ran on: 2021-12-15T20:54:54.281272700
+Email: samueljackson@gmail.com
+Result: User samueljackson@gmail.com's forgot token is: 1K8JX6X038.
+Forgot tokens match. Forgot token successfully changed.
+
+Current MD5 hash for samueljackson@gmail.com: cca8dd8babd4c9996c8dfee788a49d18
+Test: Check Password Change
+Test ran on: 2021-12-15T20:55:38.632290400
+Email: samueljackson@gmail.com
+Current MD5 hash for samueljackson@gmail.com is 900150983cd24fb0d6963f7d28e17f72
+Passwords do not match. Password change was successful.
+

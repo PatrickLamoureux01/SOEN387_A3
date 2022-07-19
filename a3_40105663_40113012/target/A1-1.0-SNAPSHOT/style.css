@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-size: 24px;
+}
+
+
+#proceed {
+    width: 20%;
+}
